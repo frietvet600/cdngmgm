@@ -1,0 +1,13 @@
+{
+"companyName": "thatrs",
+"productName": "Five Nights At Freddy's",
+"dataUrl": "https://cdn.jsdelivr.net/gh/frietvet600/fnaf@latest/FNAF1WebGL.data.unityweb",
+"asmCodeUrl": "https://cdn.jsdelivr.net/gh/frietvet600/fnaf@latest/FNAF1WebGL.asm.code.unityweb",
+"asmMemoryUrl": "https://cdn.jsdelivr.net/gh/frietvet600/fnaf@latest/FNAF1WebGL.asm.memory.unityweb",
+"asmFrameworkUrl": "https://cdn.jsdelivr.net/gh/frietvet600/fnaf@latest/FNAF1WebGL.asm.framework.unityweb",
+"TOTAL_MEMORY": 1073741824,
+"graphicsAPI": ["WebGL 2.0", "WebGL 1.0"],
+"webglContextAttributes": {"preserveDrawingBuffer": false},
+"splashScreenStyle": "Dark",
+"backgroundColor": "#231F20"
+}
